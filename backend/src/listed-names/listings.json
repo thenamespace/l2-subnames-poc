@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mintmysubs.eth",
+    "namehash": "0x08c3fd80e95b57a9508f717c7f08c28fb51ff50856e3e75db12b9d7aff99b561",
+    "price": 0,
+    "network": "base-sepolia",
+    "owner": "0xEf2c32797724C2572D83Dd69E71c1A821e07FECa",
+    "contract": "0x029f28B7532Cc9F92dC0D57F92afa3fC882287d4"
+  },
+  {
+    "name": "basesubs.eth",
+    "namehash": "0x74e3f5a0fab596930b0d9b0ea3795fb0d9d2708f360b20e1de6665786ec7827e",
+    "price": 0,
+    "network": "base-sepolia",
+    "owner": "0xEf2c32797724C2572D83Dd69E71c1A821e07FECa",
+    "contract": "0x9D20d70eB71b6b40f238702260BA652ACeE1d40c"
+  }
+]
