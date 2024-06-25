@@ -1,0 +1,72 @@
+.page {
+  background-color: rgb(239, 239, 239);
+}
+
+.name-listing-form {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+
+  .listing-input {
+    padding-bottom: 20px;
+  }
+}
+
+.name-listing {
+  transition: background-color 0.3s ease;
+  padding-left: 10px;
+  cursor: pointer;
+}
+
+.name-listing:hover {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #f0f0f0; /* Light grey background on hover */
+}
+
+.toast-error-message {
+  overflow: scroll;
+  white-space: pre-wrap;
+  font-family: monospace;
+}
+
+
+@font-face {
+  font-family: 'Satoshi';
+  src: url('../assets/fonts/satoshi/Satoshi-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Satoshi';
+  src: url('./assets/fonts/satoshi/Satoshi-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Satoshi';
+  src: url('./assets/fonts/satoshi/Satoshi-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Satoshi';
+  src: url('./assets/fonts/satoshi/Satoshi-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+* {
+  font-family: "Satoshi" !important;
+}

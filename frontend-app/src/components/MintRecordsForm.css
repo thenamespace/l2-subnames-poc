@@ -1,0 +1,12 @@
+.mint-records-form .records-item {
+    cursor: pointer;
+}
+
+.mint-records-form .records-item.active {
+    background-color: rgb(238, 238, 238);
+}
+
+.mint-records-form .records-item:hover {
+    background-color: rgb(238, 238, 238);
+    transition: 0.3s linear;
+}

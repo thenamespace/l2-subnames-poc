@@ -1,0 +1,22 @@
+.mint-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: calc(100vh - 50px);
+    padding: 10px;
+}
+
+.mint-page .mint-page-container {
+    width: 100%;
+    max-width: 500px;
+}
+
+.name-page-card .card-container {
+    cursor: pointer;
+}
+
+.name-page-card .card-container:hover {
+    transform: scale(1.05);
+    transition: 0.3s linear;
+}

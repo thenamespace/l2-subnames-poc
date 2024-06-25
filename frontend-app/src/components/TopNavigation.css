@@ -1,0 +1,22 @@
+.top-navigation {
+   display: flex;
+   align-items: center;
+   padding: 15px;
+   justify-content: flex-end;
+   height: 60px;
+}
+
+.top-navigation .profile-container {
+   position: relative;
+}
+
+.top-navigation .profile-container .disconnect {
+   position: absolute;
+   width: 100%;
+   cursor: pointer;
+}
+
+.profile-container .disconnect:hover {
+   font-weight: bold;
+   transition: 0.2s linear;
+}

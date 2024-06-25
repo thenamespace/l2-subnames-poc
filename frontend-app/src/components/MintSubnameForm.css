@@ -1,0 +1,9 @@
+.mint-subname-form {
+    position: relative;
+}
+
+.mint-subname-form .back-icon {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
